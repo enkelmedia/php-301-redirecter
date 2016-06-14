@@ -1,0 +1,16 @@
+{
+"defaultRedirect" : "http://www.mynewpage.com/",
+"redirects" : [
+    {
+    "origin" : "http://www.myoldpage.com/old-content-1",
+    "destination" : "http://www.mynewpage.com/new-content-1"
+    },
+    {
+    "origin" : "http://www.myoldpage.com/old-content-2",
+    "destination" : "http://www.mynewpage.com/new-content-2"
+    },
+    {
+    "origin" : "http://www.myoldpage.com/someother-old-content-3",
+    "destination" : "http://www.mynewpage.com/new-content-3"
+    }
+]}
